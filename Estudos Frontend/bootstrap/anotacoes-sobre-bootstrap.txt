@@ -1,0 +1,3 @@
+Além de usar o bootstrap através de um CND, é possível abixá-lo e colocar junto com o seu projeto.
+
+O arquivo minificado nada mais é que o arquivo sem formatação para que ocupe menos espaço.
